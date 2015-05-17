@@ -1,0 +1,12 @@
+<!DOCTYPE html><!这表示这是一个html5的页面>
+        <html>
+<head>
+    <title>
+        lessonHTML01
+    </title>
+    <meta charset="utf-8">
+</head>
+<body>
+这是你的第一个Html页面
+</body>
+        </html>
